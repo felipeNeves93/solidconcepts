@@ -1,4 +1,4 @@
-## Principio da Segregação de Interfaces
+## Principio da Segregação de Interfaces (Interface Segregation Principle)
 
 * [Single Responsability Principle](https://github.com/felipeNeves93/solidconcepts/tree/master/src/br/com/solidconcepts/singleresponsability)
 * [Open Closed Principle](https://github.com/felipeNeves93/solidconcepts/tree/master/src/br/com/solidconcepts/openclosed)
