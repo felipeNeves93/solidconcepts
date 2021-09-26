@@ -1,4 +1,4 @@
-## Principio da Substituição de Liskov
+## Principio da Substituição de Liskov (Liskov Subistitution Principle)
 
 * [Single Responsability Principle](https://github.com/felipeNeves93/solidconcepts/tree/master/src/br/com/solidconcepts/singleresponsability)
 * [Open Closed Principle](https://github.com/felipeNeves93/solidconcepts/tree/master/src/br/com/solidconcepts/openclosed)
