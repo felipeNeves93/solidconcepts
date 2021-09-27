@@ -3,3 +3,5 @@ out/
 .idea_modules/
 .idea
 *.iml
+/.idea/
+solidconcepts.iml
